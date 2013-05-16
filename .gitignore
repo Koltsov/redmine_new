@@ -29,3 +29,4 @@
 
 /.idea/
 repositories/project-m
+*.DS_Store
